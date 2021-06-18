@@ -1,0 +1,6 @@
+ryerson/ca/helper/PropertyXML.class
+ryerson/ca/frontend/FrontEnd.class
+ryerson/ca/frontend/Authenticate.class
+ryerson/ca/business/XMLParser.class
+ryerson/ca/business/Business.class
+ryerson/ca/helper/Property.class

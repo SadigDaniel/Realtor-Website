@@ -1,0 +1,6 @@
+ryerson/ca/searchbook/helper/Property.class
+ryerson/ca/searchbook/persistence/Property_CRUD.class
+ryerson/ca/searchbook/business/SearchBusiness.class
+ryerson/ca/searchbook/endpoint/ApplicationConfig.class
+ryerson/ca/searchbook/helper/PropertyXML.class
+ryerson/ca/searchbook/endpoint/SearchResource.class

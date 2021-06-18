@@ -1,0 +1,5 @@
+ryerson/ca/holdbook/business/HoldBusiness.class
+ryerson/ca/holdbook/endpoint/ApplicationConfig.class
+ryerson/ca/holdbook/persistence/USERS_CRUD.class
+ryerson/ca/holdbook/helper/UserInfo.class
+ryerson/ca/holdbook/endpoint/HoldResource.class
